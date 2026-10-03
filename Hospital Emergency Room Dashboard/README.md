@@ -116,7 +116,3 @@ The dashboard analyzes patient activity based on:
 The **Hospital Emergency Room Analytics Dashboard** demonstrates how healthcare data can be transformed into meaningful and interactive visual insights.
 
 By analyzing patient volume, waiting time, admissions, referrals, demographics, and satisfaction, the dashboard provides a comprehensive view of emergency room activity.
-
-This project helped strengthen my practical skills in **Power BI, DAX, Power Query, data visualization, dashboard design, and data storytelling**.
-
-
